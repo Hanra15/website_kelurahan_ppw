@@ -1,0 +1,40 @@
+html{
+    width: 100%;
+    height: 100%;
+}
+.newslater{
+    background-color:#003638 ;
+    color: white;
+}
+.wrap{
+    background-color: white;
+}
+.row{
+    --bs-gutter-x:0;
+}
+.getstarted{
+    background-image: url(image/gambar1.jpg);
+}
+.bc-home{
+    text-decoration: none;
+}
+.logo{
+    margin-right: 10px;
+}
+.map-container-6{
+    overflow:hidden;
+    padding-bottom:50%;
+    position:relative;
+    height:0;
+}
+.map-container-6 iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+.carousel-item img{
+    max-height: 400px;
+}
+
